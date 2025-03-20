@@ -1,4 +1,4 @@
-![4663053984_w160_h160_zigbee-datchik-temperatury](https://github.com/user-attachments/assets/6654e1f7-44e9-4cce-8ca8-3d7ac8446072)
+![4663053984_w80_h80_zigbee-datchik-temperatury](https://github.com/user-attachments/assets/6654e1f7-44e9-4cce-8ca8-3d7ac8446072)
 HomeMeteo is a minimalist home weather station project that combines simplicity and efficiency. 
 The entire system is built using a single sensor, without the need for soldering or complex assembly. 
 Thanks to integration with Home Assistant, you gain easy access to real-time weather data without unnecessary hassle.
